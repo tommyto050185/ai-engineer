@@ -1,1 +1,12 @@
+# tạo môi trường ảo trong windows
+python -m venv .venv
+
+# kích hoạt môi trường ảo
+.\.venv\Scripts\activate
+
+#export libary ra requirements
 pip freeze > requirements.txt
+#insert libary từ requirements
+pip install -r requirements.txt
+
+#
