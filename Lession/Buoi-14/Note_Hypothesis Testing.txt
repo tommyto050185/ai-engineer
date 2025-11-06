@@ -1,0 +1,4 @@
+Ho: đúng --> Val = T
+Ho: sai --> Val = F
+Type 1 Error: Bác bỏ Ho khi Ho đúng.
+Type 2 Error: Không bác bỏ Ho khi Ho sai
