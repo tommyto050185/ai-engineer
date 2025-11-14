@@ -83,3 +83,4 @@ Kiểm tra lỗi	Residual plot, error distribution
 Giải thích mô hình	Feature importance, SHAP
 Kiểm tra overfitting	Learning curves
 Kiểm tra giả định mô hình	Q-Q plot, scatter residual
+
